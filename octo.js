@@ -1,3 +1,4 @@
+onmessage=function(e){console.log(e)};
 console.log('hi there!');
 console.log(self);
 console.log(self.clients);
